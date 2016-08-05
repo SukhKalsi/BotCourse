@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@slack/client": "^3.5.1",
+    "houndify": "0.0.5",
     "is-phone": "^2.0.0",
     "wit-js": "0.0.1"
   }
